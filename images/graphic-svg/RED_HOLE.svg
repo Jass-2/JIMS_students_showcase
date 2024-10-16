@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 582.21 262.44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: url(#linear-gradient-2);
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="385.44" y1="-231.44" x2="517.77" y2="278.58" gradientTransform="translate(128.26 -5.34) rotate(36.81) scale(.48 .65) skewX(-34.07)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9d1c20"/>
+      <stop offset="0" stop-color="#961b1e"/>
+      <stop offset=".91" stop-color="#ee223f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-.3" y1="133.36" x2="580.07" y2="133.36" gradientTransform="translate(.29 -1.02) skewX(.02)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e0e8f0" stop-opacity=".66"/>
+      <stop offset=".68" stop-color="#707377" stop-opacity=".4"/>
+      <stop offset=".69" stop-color="#727579" stop-opacity=".41"/>
+      <stop offset=".77" stop-color="#aeafb2" stop-opacity=".66"/>
+      <stop offset=".83" stop-color="#d9dadb" stop-opacity=".84"/>
+      <stop offset=".88" stop-color="#f4f4f5" stop-opacity=".96"/>
+      <stop offset=".91" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="212.44" y1="60.49" x2="688.59" y2="106.2" gradientTransform="translate(128.26 -5.34) rotate(36.81) scale(.48 .65) skewX(-34.07)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#961b1e"/>
+      <stop offset=".18" stop-color="#ae1c27"/>
+      <stop offset=".49" stop-color="#d01f34"/>
+      <stop offset=".74" stop-color="#e6213c"/>
+      <stop offset=".91" stop-color="#ee223f"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer_2">
+    <g id="HOLE">
+      <g>
+        <polygon class="cls-3" points="237.17 261.89 1.22 158.1 345.04 .55 580.99 104.34 237.17 261.89"/>
+        <polygon class="cls-2" points="237.17 261.89 1.22 158.1 345.04 .55 580.99 104.34 237.17 261.89"/>
+      </g>
+      <path class="cls-1" d="M238.67,261.89L2.72,158.1,346.54.55c.1,70.29.19,140.59.29,210.88-36.05,16.82-72.11,33.64-108.16,50.46Z"/>
+    </g>
+  </g>
+</svg>
